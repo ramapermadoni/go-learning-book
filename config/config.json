@@ -16,11 +16,11 @@
         "db_engine": "mysql"
       },
       "postgres": {
-        "db_host": "localhost",
+        "db_host": "postgres.railway.internal",
         "db_port": 5432,
-        "db_name": "go-learning-books",
-        "db_user": "postgres",
-        "db_password": "password",
+        "db_name": "railway",
+        "db_user": "railway",
+        "db_password": "VmDqVZWUCWzbuHTMEvtXHLUFgrkJFolP",
         "db_engine": "postgres"
       }
     }
